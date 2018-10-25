@@ -34,7 +34,7 @@ extension ViewController {
 
     resultsTextView.string = textDisplayForRoll(diceRolls: diceRolls, numberOfSides: numberOfSides)
 
-    let subviews = graphicalDisplayForRoll(diceRolls: diceRolls, numberOfSides: numberOfSides)
+    //let subviews = graphicalDisplayForRoll(diceRolls: diceRolls, numberOfSides: numberOfSides)
     for subview in subviews {
       resultsStackView.addView(subview, in: .top)
     }
