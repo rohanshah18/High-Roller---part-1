@@ -38,16 +38,6 @@
                ReferencedContainer = "container:High Roller.xcodeproj">
             </BuildableReference>
          </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "268F3AD71D4594EF0080CAD0"
-               BuildableName = "High RollerUITests.xctest"
-               BlueprintName = "High RollerUITests"
-               ReferencedContainer = "container:High Roller.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference

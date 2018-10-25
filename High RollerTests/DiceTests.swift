@@ -45,7 +45,7 @@ class DiceTests: XCTestCase {
   }
 
   func testDiceRoll_ShouldBeFromOneToSix() {
-    var testDie = Dice()
+    //var testDie = Dice()
     testDie.rollDie()
 
     XCTAssertTrue(testDie.value! >= 1)
