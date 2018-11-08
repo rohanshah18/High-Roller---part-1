@@ -215,7 +215,7 @@
 				TargetAttributes = {
 					268F3ABB1D4594ED0080CAD0 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = TC28MCLCFA;
+						DevelopmentTeam = 6ZP9UBK69R;
 						DevelopmentTeamName = "Sarah Reichelt";
 						ProvisioningStyle = Automatic;
 					};
@@ -452,6 +452,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 6ZP9UBK69R;
 				INFOPLIST_FILE = "High Roller/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "net.troz.High-Roller";
@@ -465,6 +466,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 6ZP9UBK69R;
 				INFOPLIST_FILE = "High Roller/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "net.troz.High-Roller";
